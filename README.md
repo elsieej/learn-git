@@ -6,3 +6,6 @@ git log --oneline
 - w
 - spacebar
 - q
+
+## Học về git branch
+feature/register
